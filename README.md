@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lper    
 - 👀 I’m interested in ...  
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... python and JavaScript
+- 💞️ I’m looking to collaborate on ... Flutter
 - 📫 How to reach me ... alper._ylmz@outlook.com
 
 <!---
